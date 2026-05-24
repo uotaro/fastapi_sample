@@ -1,0 +1,16 @@
+.venv/**
+.venv_wsl/**
+.claude/**
+.pytest_cache/**
+__pycache__/**
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.env
+**__pycache__**
+**/id_rsa
+**.pid
+**/logs/**

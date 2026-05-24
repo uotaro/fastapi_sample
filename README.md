@@ -3,6 +3,9 @@
 当サンプルは、logrotate 機能ありの前提です。  
 DB は sqLite 使用。
 
+## 参考URL
+- 公式日本語ドキュメント: [https://fastapi.tiangolo.com/ja/](https://fastapi.tiangolo.com/ja/)
+
 ## 初回設定
 ### 1. 必要モジュールをインストール
 以下を pip install インストールします。
